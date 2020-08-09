@@ -1,2 +1,4 @@
 name: Justin Blue, Cloud Engineer
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
