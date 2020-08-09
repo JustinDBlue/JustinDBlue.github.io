@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Get Transition Help"
+title: "Get-Transition Help"
 date: 2020-08-08
 ---
 
